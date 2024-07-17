@@ -93,5 +93,8 @@ while cap.isOpened():
     if cv.waitKey(1) & 0xFF == ord('q'):
         break
 
+"""this is a test for git training
+hello guys!!!"""
+
 cap.release()
 cv.destroyAllWindows()
